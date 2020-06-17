@@ -5,7 +5,7 @@ The two players are on the smae computer but on diferents terminals. thay have i
 that are the position of their boats.
 
 The frist player lauch the game like this ./navy input_file. The program show his
-PID, si the second player lauch the game like that ./navy enemy_PID input_file
+PID, so the second player lauch the game like that ./navy enemy_PID input_file
 
 And then the two player can play, programs comunicates by signals.
 
