@@ -1,0 +1,12 @@
+The navy is a naval battle in the terminal. But the two players communicates by signals
+between two process.
+
+The two players are on the smae computer but on diferents terminals. thay have input files
+that are the position of their boats.
+
+The frist player lauch the game like this ./navy input_file. The program show his
+PID, si the second player lauch the game like that ./navy enemy_PID input_file
+
+And then the two player can play, programs comunicates by signals.
+
+You can find input_file in the map folder
